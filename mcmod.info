@@ -1,0 +1,15 @@
+[
+{
+  "modid" : "SwimmableHorse",
+  "name" : "SwimmableHorse",
+  "version" : "1.6.2 Ver1.0.0",
+  "credits": "created by bbc_mc",
+  "authorList": ["bbc_mc"],
+  "description": "Add swimmable Horse. You can travel accross the Sea with your Horse in love !!",
+  "logoFile": "assets/SwimmableHorse/logo.png",
+  "url" : "http://forum.minecraftuser.jp/viewtopic.php?t=3835",
+  "updateUrl" : "http://forum.minecraftuser.jp/viewtopic.php?t=3835",
+  "parent" : "",
+  "screenshots": []
+}
+]
