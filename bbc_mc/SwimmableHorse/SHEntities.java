@@ -17,8 +17,8 @@ public class SHEntities {
     }
     
     private static void registerCreatures(SwimmableHorse mod) {
-        EntityRegistry.registerGlobalEntityID(EntitySwimmableHorse.class, "SwimmingHorse", SHConfig.idEntitySwimmableHorse, 0xFFFFFF, 0x000000);
-        EntityRegistry.registerModEntity(EntitySwimmableHorse.class, "SwimmingHorse", SHConfig.idEntitySwimmableHorse, mod, 150, 1, true);
+        EntityRegistry.registerGlobalEntityID(EntitySwimmableHorse.class, "SwimmableHorse", SHConfig.idEntitySwimmableHorse, 0xFFFFFF, 0x000000);
+        EntityRegistry.registerModEntity(EntitySwimmableHorse.class, "SwimmableHorse", SHConfig.idEntitySwimmableHorse, mod, 150, 1, true);
         
         if (SHConfig.enabled) {
             List<BiomeGenBase> spawn = Lists.newArrayList();
